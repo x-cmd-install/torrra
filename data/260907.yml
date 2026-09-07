@@ -5,7 +5,7 @@ about:
   head: 57bafbc
   archived: false
   latestVersion: "v2.5.0"
-  collectedAt: 2026-09-07T06:01:11Z
+  collectedAt: 2026-09-07T18:27:43Z
 timeline:
   created: 2025-07-06
   lastCommit: 2026-09-04
@@ -16,7 +16,7 @@ popularity:
   fork: 74
   release: 54
   contributor: 15
-  pullRequest: 284
+  pullRequest: 285
   issue: 62
 language:
   Python: 432783
@@ -29,7 +29,7 @@ recent:
     since: 2026-08-08
     release: 11
     mergedPR: 60
-    openPR: 1
+    openPR: 2
     closedIssue: 4
     openIssue: 1
     commit: 66
@@ -37,7 +37,7 @@ recent:
     since: 2026-07-09
     release: 11
     mergedPR: 60
-    openPR: 1
+    openPR: 2
     closedIssue: 5
     openIssue: 1
     commit: 66
@@ -45,7 +45,7 @@ recent:
     since: 2026-06-09
     release: 11
     mergedPR: 60
-    openPR: 1
+    openPR: 2
     closedIssue: 6
     openIssue: 1
     commit: 66
@@ -53,7 +53,7 @@ recent:
     since: 2026-03-11
     release: 11
     mergedPR: 64
-    openPR: 1
+    openPR: 2
     closedIssue: 7
     openIssue: 1
     commit: 69
@@ -61,7 +61,7 @@ recent:
     since: 2025-09-12
     release: 25
     mergedPR: 183
-    openPR: 2
+    openPR: 3
     closedIssue: 28
     openIssue: 1
     commit: 168
@@ -69,20 +69,20 @@ recent:
     since: 2024-09-17
     release: 54
     mergedPR: 268
-    openPR: 2
+    openPR: 3
     closedIssue: 61
     openIssue: 1
     commit: 388
 total:
   release: 54
   mergedPR: 268
-  openPR: 2
+  openPR: 3
   closedIssue: 61
   openIssue: 1
   commit: 388
 ---
 path: /home/runner/.x-repo/github.com/stabldev/torrra
-collectedAt: 2026-09-07T06:01:16Z
+collectedAt: 2026-09-07T18:27:48Z
 loc:
   Python:
     code: 9846
@@ -143,7 +143,7 @@ total:
 
 ---
 eget:
-  collectedAt: 2026-09-07T06:01:17+00:00
+  collectedAt: 2026-09-07T18:27:51+00:00
   platform:
     darwin/arm64:
       name:  torrra_v2.5.0_macos_arm64
