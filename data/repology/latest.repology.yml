@@ -1,0 +1,68 @@
+- repo: alt_p11
+  srcname: torrra
+  binnames:
+    - torrra
+  visiblename: torrra
+  version: 2.0.7
+  origversion: 2.0.7-alt1
+  status: outdated
+  summary: A Python tool that lets you search and download torrents without leaving your CLI
+  maintainers:
+    - sirius@altlinux.org
+  licenses:
+    - MIT
+  categories:
+    - Networking/File transfer
+- repo: altsisyphus
+  srcname: torrra
+  binnames:
+    - torrra
+  visiblename: torrra
+  version: 2.0.7
+  origversion: 2.0.7-alt1
+  status: outdated
+  summary: A Python tool that lets you search and download torrents without leaving your CLI
+  maintainers:
+    - sirius@altlinux.org
+  licenses:
+    - MIT
+  categories:
+    - Networking/File transfer
+- repo: aur
+  srcname: torrra
+  binname: torrra
+  visiblename: torrra
+  version: 2.5.0
+  origversion: 2.5.0-1
+  status: newest
+  summary: A Python tool that lets you find and download torrents without leaving your CLI.
+  maintainers:
+    - stabldev@aur
+  licenses:
+    - MIT
+- repo: aur
+  srcname: torrra-bin
+  binname: torrra-bin
+  visiblename: torrra-bin
+  version: 2.5.0
+  origversion: 2.5.0-1
+  status: newest
+  summary: A Python tool that lets you find and download torrents without leaving your CLI.
+  maintainers:
+    - stabldev@aur
+  licenses:
+    - MIT
+- repo: homebrew
+  srcname: torrra
+  visiblename: torrra
+  version: 2.5.0
+  origversion: null
+  status: newest
+  summary: Find and download torrents without leaving your CLI
+- repo: homebrew
+  srcname: torrra
+  visiblename: torrra
+  version: HEAD
+  origversion: null
+  status: rolling
+  summary: Find and download torrents without leaving your CLI
