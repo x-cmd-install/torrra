@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 45252680,
       "digest": "sha256:9f9d0dd8d9a25d6c0594b0c1fc3a532e373aa279674c71d9520d5035762256d4",
-      "download_count": 100,
+      "download_count": 101,
       "created_at": "2026-08-27T17:57:57Z",
       "updated_at": "2026-08-27T17:58:00Z",
       "browser_download_url": "https://github.com/stabldev/torrra/releases/download/v2.5.0/torrra_v2.5.0_linux_x86_64"
