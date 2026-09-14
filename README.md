@@ -38,7 +38,7 @@ Total: **10,134** lines of code across **71** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 1,229 · **Forks**: 73 · **Open issues**: 63 · **Contributors**: 15
+- **Stars**: 1,231 · **Forks**: 74 · **Open issues**: 63 · **Contributors**: 15
 
 ## Totals (cumulative)
 
@@ -48,12 +48,12 @@ Total: **10,134** lines of code across **71** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-14 | 11 | 58 | 7 | 3 | 2 | 35 |
-| last60d | 2026-07-15 | 11 | 60 | 7 | 5 | 2 | 66 |
-| 90d | 2026-06-15 | 11 | 60 | 7 | 5 | 2 | 66 |
-| last180d | 2026-03-17 | 11 | 63 | 7 | 7 | 2 | 69 |
-| 360d | 2025-09-18 | 25 | 183 | 8 | 28 | 2 | 168 |
-| last720d | 2024-09-23 | 54 | 268 | 8 | 61 | 2 | 388 |
+| 30d | 2026-08-15 | 11 | 54 | 7 | 3 | 2 | 35 |
+| last60d | 2026-07-16 | 11 | 60 | 7 | 5 | 2 | 66 |
+| 90d | 2026-06-16 | 11 | 60 | 7 | 5 | 2 | 66 |
+| last180d | 2026-03-18 | 11 | 63 | 7 | 7 | 2 | 69 |
+| 360d | 2025-09-19 | 25 | 183 | 8 | 28 | 2 | 168 |
+| last720d | 2024-09-24 | 54 | 268 | 8 | 61 | 2 | 388 |
 
 ## Release assets
 
@@ -62,14 +62,6 @@ Total: **10,134** lines of code across **71** files in the top 5 languages.
 | [torrra_v2.5.0_linux_x86_64](https://github.com/stabldev/torrra/releases/download/v2.5.0/torrra_v2.5.0_linux_x86_64) | 43.2 MiB | `native/linux/x64` |
 | [torrra_v2.5.0_macos_arm64](https://github.com/stabldev/torrra/releases/download/v2.5.0/torrra_v2.5.0_macos_arm64) | 21.9 MiB | `native/darwin/arm64` |
 | [torrra_v2.5.0_windows_x86_64.exe](https://github.com/stabldev/torrra/releases/download/v2.5.0/torrra_v2.5.0_windows_x86_64.exe) | 22.7 MiB | `native/win/x64` |
-
-## Distribution status
-
-Reported by **6** distros on [repology.org](https://repology.org/project/torrra). **3** are ✅ on the latest upstream release, **2** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Homebrew | `2.5.0` | ✅ latest |
 
 ## Improve this data
 
@@ -80,4 +72,4 @@ Install metadata for torrra lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260913.yml` · 2026-09-13T06:13:35Z._
+_Snapshot: `data/card/260914.yml` · 2026-09-14T06:32:59Z._
