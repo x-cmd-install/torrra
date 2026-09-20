@@ -4,7 +4,7 @@
 
 A Python tool that lets you search and download torrents without leaving your CLI.
 
-![torrra](https://repo.x-cmd.io/torrra.svg)
+[![x-cmd/install — torrra Code Quality Monitoring Repo Card](https://repo.x-cmd.io/torrra.svg)](https://x-cmd.com/install/torrra)
 
 ## Install
 
@@ -48,12 +48,12 @@ Total: **10,134** lines of code across **71** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 11 | 36 | 7 | 3 | 2 | 35 |
-| last60d | 2026-07-20 | 11 | 60 | 7 | 5 | 2 | 66 |
-| 90d | 2026-06-20 | 11 | 60 | 7 | 5 | 2 | 66 |
-| last180d | 2026-03-22 | 11 | 63 | 7 | 7 | 2 | 69 |
-| 360d | 2025-09-23 | 25 | 183 | 8 | 28 | 2 | 168 |
-| last720d | 2024-09-28 | 54 | 268 | 8 | 61 | 2 | 388 |
+| 30d | 2026-08-21 | 10 | 32 | 6 | 3 | 2 | 1 |
+| last60d | 2026-07-22 | 11 | 60 | 7 | 5 | 2 | 66 |
+| 90d | 2026-06-22 | 11 | 60 | 7 | 5 | 2 | 66 |
+| last180d | 2026-03-24 | 11 | 63 | 7 | 7 | 2 | 68 |
+| 360d | 2025-09-25 | 25 | 183 | 8 | 28 | 2 | 168 |
+| last720d | 2024-09-30 | 54 | 268 | 8 | 61 | 2 | 388 |
 
 ## Release assets
 
@@ -72,4 +72,4 @@ Install metadata for torrra lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T06:30:50Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T06:13:59Z._
