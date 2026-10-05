@@ -14,15 +14,15 @@ x install torrra
 
 ## Code insight
 
-Total: **10,134** lines of code across **71** files in the top 5 languages.
+Total: **10,544** lines of code across **71** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 9,846 | 475 | 2,151 | 66 |
+| Python | 10,218 | 486 | 2,257 | 66 |
 | Toml | 113 | 0 | 11 | 1 |
 | Nix | 58 | 4 | 13 | 2 |
 | RPMSpecfile | 39 | 1 | 3 | 1 |
-| Batch | 26 | 1 | 8 | 1 |
+| PowerShell | 38 | 1 | 10 | 1 |
 
 ## Source
 
@@ -32,36 +32,36 @@ Total: **10,134** lines of code across **71** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v2.5.0` (2026-08-27)
-- **Last commit**: 2026-09-04
+- **Latest**: `v2.5.1` (2026-10-05)
+- **Last commit**: 2026-10-05
 - **Assets in release**: 3
 
 ## Popularity
 
-- **Stars**: 1,242 · **Forks**: 76 · **Open issues**: 63 · **Contributors**: 15
+- **Stars**: 1,243 · **Forks**: 76 · **Open issues**: 63 · **Contributors**: 15
 
 ## Totals (cumulative)
 
-- **Releases**: 54 · **Merged PRs**: 268 · **Open PRs**: 8 · **Closed issues**: 61 · **Open issues**: 2 · **Commits**: 388
+- **Releases**: 55 · **Merged PRs**: 277 · **Open PRs**: 1 · **Closed issues**: 63 · **Open issues**: 0 · **Commits**: 398
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-04 | 0 | 0 | 6 | 0 | 2 | 0 |
-| last60d | 2026-08-05 | 11 | 60 | 7 | 4 | 2 | 66 |
-| 90d | 2026-07-06 | 11 | 60 | 7 | 5 | 2 | 66 |
-| last180d | 2026-04-07 | 11 | 62 | 7 | 7 | 2 | 68 |
-| 360d | 2025-10-09 | 25 | 177 | 8 | 28 | 2 | 165 |
-| last720d | 2024-10-14 | 54 | 268 | 8 | 61 | 2 | 388 |
+| 30d | 2026-09-05 | 1 | 8 | 0 | 2 | 0 | 0 |
+| last60d | 2026-08-06 | 12 | 69 | 0 | 6 | 0 | 0 |
+| 90d | 2026-07-07 | 12 | 69 | 0 | 7 | 0 | 0 |
+| last180d | 2026-04-08 | 12 | 71 | 0 | 9 | 0 | 0 |
+| 360d | 2025-10-10 | 26 | 186 | 1 | 30 | 0 | 0 |
+| last720d | 2024-10-15 | 55 | 277 | 1 | 63 | 0 | 398 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [torrra_v2.5.0_linux_x86_64](https://github.com/stabldev/torrra/releases/download/v2.5.0/torrra_v2.5.0_linux_x86_64) | 43.2 MiB | `native/linux/x64` |
-| [torrra_v2.5.0_macos_arm64](https://github.com/stabldev/torrra/releases/download/v2.5.0/torrra_v2.5.0_macos_arm64) | 21.9 MiB | `native/darwin/arm64` |
-| [torrra_v2.5.0_windows_x86_64.exe](https://github.com/stabldev/torrra/releases/download/v2.5.0/torrra_v2.5.0_windows_x86_64.exe) | 22.7 MiB | `native/win/x64` |
+| [torrra_v2.5.1_linux_x86_64](https://github.com/stabldev/torrra/releases/download/v2.5.1/torrra_v2.5.1_linux_x86_64) | 43.2 MiB | `native/linux/x64` |
+| [torrra_v2.5.1_macos_arm64](https://github.com/stabldev/torrra/releases/download/v2.5.1/torrra_v2.5.1_macos_arm64) | 21.9 MiB | `native/darwin/arm64` |
+| [torrra_v2.5.1_windows_x86_64.exe](https://github.com/stabldev/torrra/releases/download/v2.5.1/torrra_v2.5.1_windows_x86_64.exe) | 22.7 MiB | `native/win/x64` |
 
 ## Improve this data
 
@@ -72,4 +72,4 @@ Install metadata for torrra lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261004.yml` · 2026-10-04T06:54:02Z._
+_Snapshot: `data/card/261005.yml` · 2026-10-05T06:43:45Z._
