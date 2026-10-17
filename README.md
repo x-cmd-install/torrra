@@ -38,7 +38,7 @@ Total: **10,544** lines of code across **71** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 1,238 · **Forks**: 75 · **Open issues**: 63 · **Contributors**: 15
+- **Stars**: 1,239 · **Forks**: 75 · **Open issues**: 63 · **Contributors**: 15
 
 ## Totals (cumulative)
 
@@ -48,12 +48,12 @@ Total: **10,544** lines of code across **71** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-16 | 1 | 2 | 6 | 0 | 0 | 7 |
-| last60d | 2026-08-17 | 12 | 61 | 6 | 5 | 0 | 57 |
-| 90d | 2026-07-18 | 12 | 69 | 6 | 7 | 0 | 73 |
-| last180d | 2026-04-19 | 12 | 71 | 6 | 9 | 0 | 74 |
-| 360d | 2025-10-21 | 26 | 185 | 7 | 30 | 0 | 172 |
-| last720d | 2024-10-26 | 55 | 277 | 7 | 63 | 0 | 398 |
+| 30d | 2026-09-17 | 1 | 2 | 6 | 0 | 0 | 7 |
+| last60d | 2026-08-18 | 12 | 52 | 6 | 5 | 0 | 57 |
+| 90d | 2026-07-19 | 12 | 69 | 6 | 7 | 0 | 73 |
+| last180d | 2026-04-20 | 12 | 70 | 6 | 8 | 0 | 74 |
+| 360d | 2025-10-22 | 26 | 185 | 7 | 30 | 0 | 172 |
+| last720d | 2024-10-27 | 55 | 277 | 7 | 63 | 0 | 398 |
 
 ## Release assets
 
@@ -72,4 +72,4 @@ Install metadata for torrra lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261016.yml` · 2026-10-16T05:36:55Z._
+_Snapshot: `data/card/261017.yml` · 2026-10-17T05:19:48Z._
