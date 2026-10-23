@@ -48,12 +48,12 @@ x install torrra
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 1 | 2 | 6 | 0 | 0 | 7 |
-| last60d | 2026-08-23 | 10 | 31 | 6 | 2 | 0 | 16 |
-| 90d | 2026-07-24 | 12 | 69 | 6 | 7 | 0 | 73 |
-| last180d | 2026-04-25 | 12 | 70 | 6 | 8 | 0 | 74 |
-| 360d | 2025-10-27 | 26 | 184 | 7 | 30 | 0 | 172 |
-| last720d | 2024-11-01 | 55 | 277 | 7 | 63 | 0 | 398 |
+| 30d | 2026-09-23 | 1 | 2 | 6 | 0 | 0 | 7 |
+| last60d | 2026-08-24 | 7 | 26 | 6 | 2 | 0 | 16 |
+| 90d | 2026-07-25 | 12 | 69 | 6 | 7 | 0 | 73 |
+| last180d | 2026-04-26 | 12 | 70 | 6 | 8 | 0 | 74 |
+| 360d | 2025-10-28 | 26 | 184 | 7 | 30 | 0 | 172 |
+| last720d | 2024-11-02 | 55 | 277 | 7 | 63 | 0 | 398 |
 
 ## Release 资产
 
@@ -62,6 +62,14 @@ x install torrra
 | [torrra_v2.5.1_linux_x86_64](https://github.com/stabldev/torrra/releases/download/v2.5.1/torrra_v2.5.1_linux_x86_64) | 43.2 MiB | `native/linux/x64` |
 | [torrra_v2.5.1_macos_arm64](https://github.com/stabldev/torrra/releases/download/v2.5.1/torrra_v2.5.1_macos_arm64) | 21.9 MiB | `native/darwin/arm64` |
 | [torrra_v2.5.1_windows_x86_64.exe](https://github.com/stabldev/torrra/releases/download/v2.5.1/torrra_v2.5.1_windows_x86_64.exe) | 22.7 MiB | `native/win/x64` |
+
+## 发行版状态
+
+在 [repology.org](https://repology.org/project/torrra) 上共有 **6** 个发行版报告此项目。**3** 个 ✅ 已是最新上游版本，**2** 个 ⚠️ 使用旧版本。
+
+| 发行版 | 版本 | 状态 |
+|--------|------|------|
+| Homebrew | `2.5.1` | ✅ latest |
 
 ## 改进这些数据
 
@@ -72,4 +80,4 @@ torrra 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261022.yml` · 2026-10-22T05:47:31Z._
+_数据快照: `data/card/261023.yml` · 2026-10-23T05:49:44Z._

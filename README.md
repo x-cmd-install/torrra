@@ -48,12 +48,12 @@ Total: **10,544** lines of code across **71** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 1 | 2 | 6 | 0 | 0 | 7 |
-| last60d | 2026-08-23 | 10 | 31 | 6 | 2 | 0 | 16 |
-| 90d | 2026-07-24 | 12 | 69 | 6 | 7 | 0 | 73 |
-| last180d | 2026-04-25 | 12 | 70 | 6 | 8 | 0 | 74 |
-| 360d | 2025-10-27 | 26 | 184 | 7 | 30 | 0 | 172 |
-| last720d | 2024-11-01 | 55 | 277 | 7 | 63 | 0 | 398 |
+| 30d | 2026-09-23 | 1 | 2 | 6 | 0 | 0 | 7 |
+| last60d | 2026-08-24 | 7 | 26 | 6 | 2 | 0 | 16 |
+| 90d | 2026-07-25 | 12 | 69 | 6 | 7 | 0 | 73 |
+| last180d | 2026-04-26 | 12 | 70 | 6 | 8 | 0 | 74 |
+| 360d | 2025-10-28 | 26 | 184 | 7 | 30 | 0 | 172 |
+| last720d | 2024-11-02 | 55 | 277 | 7 | 63 | 0 | 398 |
 
 ## Release assets
 
@@ -62,6 +62,14 @@ Total: **10,544** lines of code across **71** files in the top 5 languages.
 | [torrra_v2.5.1_linux_x86_64](https://github.com/stabldev/torrra/releases/download/v2.5.1/torrra_v2.5.1_linux_x86_64) | 43.2 MiB | `native/linux/x64` |
 | [torrra_v2.5.1_macos_arm64](https://github.com/stabldev/torrra/releases/download/v2.5.1/torrra_v2.5.1_macos_arm64) | 21.9 MiB | `native/darwin/arm64` |
 | [torrra_v2.5.1_windows_x86_64.exe](https://github.com/stabldev/torrra/releases/download/v2.5.1/torrra_v2.5.1_windows_x86_64.exe) | 22.7 MiB | `native/win/x64` |
+
+## Distribution status
+
+Reported by **6** distros on [repology.org](https://repology.org/project/torrra). **3** are ✅ on the latest upstream release, **2** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Homebrew | `2.5.1` | ✅ latest |
 
 ## Improve this data
 
@@ -72,4 +80,4 @@ Install metadata for torrra lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261022.yml` · 2026-10-22T05:47:30Z._
+_Snapshot: `data/card/261023.yml` · 2026-10-23T05:49:44Z._
