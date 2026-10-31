@@ -48,12 +48,12 @@ Total: **10,544** lines of code across **71** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-30 | 1 | 2 | 6 | 0 | 1 | 7 |
-| last60d | 2026-08-31 | 1 | 13 | 6 | 2 | 1 | 7 |
-| 90d | 2026-08-01 | 12 | 69 | 6 | 6 | 1 | 73 |
-| last180d | 2026-05-03 | 12 | 70 | 6 | 8 | 1 | 74 |
-| 360d | 2025-11-04 | 26 | 183 | 7 | 30 | 1 | 172 |
-| last720d | 2024-11-09 | 55 | 277 | 7 | 63 | 1 | 398 |
+| 30d | 2026-10-01 | 1 | 2 | 6 | 0 | 1 | 7 |
+| last60d | 2026-09-01 | 1 | 8 | 6 | 2 | 1 | 7 |
+| 90d | 2026-08-02 | 12 | 69 | 6 | 6 | 1 | 73 |
+| last180d | 2026-05-04 | 12 | 70 | 6 | 8 | 1 | 74 |
+| 360d | 2025-11-05 | 26 | 183 | 7 | 30 | 1 | 172 |
+| last720d | 2024-11-10 | 55 | 277 | 7 | 63 | 1 | 398 |
 
 ## Release assets
 
@@ -80,4 +80,4 @@ Install metadata for torrra lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261030.yml` · 2026-10-30T06:57:02Z._
+_Snapshot: `data/card/261031.yml` · 2026-10-31T06:50:05Z._
