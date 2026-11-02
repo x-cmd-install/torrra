@@ -14,14 +14,14 @@ x install torrra
 
 ## Code insight
 
-Total: **10,544** lines of code across **71** files in the top 5 languages.
+Total: **11,300** lines of code across **74** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 10,218 | 486 | 2,257 | 66 |
-| Toml | 113 | 0 | 11 | 1 |
+| Python | 10,972 | 501 | 2,461 | 69 |
+| Toml | 113 | 1 | 11 | 1 |
 | Nix | 58 | 4 | 13 | 2 |
-| RPMSpecfile | 39 | 1 | 3 | 1 |
+| RPMSpecfile | 41 | 2 | 4 | 1 |
 | PowerShell | 38 | 1 | 10 | 1 |
 
 ## Source
@@ -32,8 +32,8 @@ Total: **10,544** lines of code across **71** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v2.5.1` (2026-10-05)
-- **Last commit**: 2026-10-05
+- **Latest**: `v2.6.1` (2026-11-02)
+- **Last commit**: 2026-11-02
 - **Assets in release**: 3
 
 ## Popularity
@@ -42,34 +42,34 @@ Total: **10,544** lines of code across **71** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 55 · **Merged PRs**: 277 · **Open PRs**: 7 · **Closed issues**: 63 · **Open issues**: 1 · **Commits**: 398
+- **Releases**: 57 · **Merged PRs**: 285 · **Open PRs**: 1 · **Closed issues**: 63 · **Open issues**: 1 · **Commits**: 410
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-02 | 1 | 2 | 6 | 0 | 1 | 0 |
-| last60d | 2026-09-02 | 1 | 8 | 6 | 2 | 1 | 7 |
-| 90d | 2026-08-03 | 12 | 69 | 6 | 6 | 1 | 73 |
-| last180d | 2026-05-05 | 12 | 70 | 6 | 8 | 1 | 73 |
-| 360d | 2025-11-06 | 26 | 183 | 7 | 30 | 1 | 152 |
-| last720d | 2024-11-11 | 55 | 277 | 7 | 63 | 1 | 398 |
+| 30d | 2026-10-03 | 3 | 10 | 0 | 0 | 1 | 9 |
+| last60d | 2026-09-03 | 3 | 16 | 0 | 2 | 1 | 16 |
+| 90d | 2026-08-04 | 14 | 77 | 0 | 6 | 1 | 82 |
+| last180d | 2026-05-06 | 14 | 77 | 0 | 8 | 1 | 82 |
+| 360d | 2025-11-07 | 28 | 190 | 1 | 30 | 1 | 161 |
+| last720d | 2024-11-12 | 57 | 285 | 1 | 63 | 1 | 410 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [torrra_v2.5.1_linux_x86_64](https://github.com/stabldev/torrra/releases/download/v2.5.1/torrra_v2.5.1_linux_x86_64) | 43.2 MiB | `native/linux/x64` |
-| [torrra_v2.5.1_macos_arm64](https://github.com/stabldev/torrra/releases/download/v2.5.1/torrra_v2.5.1_macos_arm64) | 21.9 MiB | `native/darwin/arm64` |
-| [torrra_v2.5.1_windows_x86_64.exe](https://github.com/stabldev/torrra/releases/download/v2.5.1/torrra_v2.5.1_windows_x86_64.exe) | 22.7 MiB | `native/win/x64` |
+| [torrra_v2.6.1_linux_x86_64](https://github.com/stabldev/torrra/releases/download/v2.6.1/torrra_v2.6.1_linux_x86_64) | 43.2 MiB | `native/linux/x64` |
+| [torrra_v2.6.1_macos_arm64](https://github.com/stabldev/torrra/releases/download/v2.6.1/torrra_v2.6.1_macos_arm64) | 22.0 MiB | `native/darwin/arm64` |
+| [torrra_v2.6.1_windows_x86_64.exe](https://github.com/stabldev/torrra/releases/download/v2.6.1/torrra_v2.6.1_windows_x86_64.exe) | 23.2 MiB | `native/win/x64` |
 
 ## Distribution status
 
-Reported by **6** distros on [repology.org](https://repology.org/project/torrra). **4** are ✅ on the latest upstream release, **1** are ⚠️ on an older version.
+Reported by **6** distros on [repology.org](https://repology.org/project/torrra). **2** are ✅ on the latest upstream release, **3** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
-| Homebrew | `2.5.1` | ✅ latest |
+| Homebrew | `2.5.1` | ⚠️ outdated |
 
 ## Improve this data
 
@@ -80,4 +80,4 @@ Install metadata for torrra lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261101.yml` · 2026-11-01T07:16:36Z._
+_Snapshot: `data/card/261102.yml` · 2026-11-02T07:21:18Z._
