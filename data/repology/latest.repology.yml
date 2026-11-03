@@ -32,8 +32,8 @@
   srcname: torrra
   binname: torrra
   visiblename: torrra
-  version: 2.6.0
-  origversion: 2.6.0-1
+  version: 2.6.1
+  origversion: 2.6.1-1
   status: newest
   summary: A Python tool that lets you find and download torrents without leaving your CLI.
   maintainers:
@@ -44,8 +44,8 @@
   srcname: torrra-bin
   binname: torrra-bin
   visiblename: torrra-bin
-  version: 2.6.0
-  origversion: 2.6.0-1
+  version: 2.6.1
+  origversion: 2.6.1-1
   status: newest
   summary: A Python tool that lets you find and download torrents without leaving your CLI.
   maintainers:

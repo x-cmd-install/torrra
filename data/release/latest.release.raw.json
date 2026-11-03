@@ -33,7 +33,7 @@
   "immutable": false,
   "prerelease": false,
   "created_at": "2026-11-02T07:14:49Z",
-  "updated_at": "2026-11-02T07:17:49Z",
+  "updated_at": "2026-11-02T07:44:01Z",
   "published_at": "2026-11-02T07:17:44Z",
   "assets": [
     {
@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 45289208,
       "digest": "sha256:7dc76bb00e10793ff463f68fe074623690bc45aa1acd75b18787fcb4eafd27b9",
-      "download_count": 0,
+      "download_count": 17,
       "created_at": "2026-11-02T07:17:42Z",
       "updated_at": "2026-11-02T07:17:43Z",
       "browser_download_url": "https://github.com/stabldev/torrra/releases/download/v2.6.1/torrra_v2.6.1_linux_x86_64"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 23063472,
       "digest": "sha256:6bfb05985238e1996893e98d14218d33b1f9673beffb4979a81deee7a3620f0b",
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2026-11-02T07:17:45Z",
       "updated_at": "2026-11-02T07:17:47Z",
       "browser_download_url": "https://github.com/stabldev/torrra/releases/download/v2.6.1/torrra_v2.6.1_macos_arm64"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 24319016,
       "digest": "sha256:dd6bace601d7b2a08f449885c046a59edd93e364cdeda6593c9f339abfd89253",
-      "download_count": 0,
+      "download_count": 23,
       "created_at": "2026-11-02T07:17:48Z",
       "updated_at": "2026-11-02T07:17:49Z",
       "browser_download_url": "https://github.com/stabldev/torrra/releases/download/v2.6.1/torrra_v2.6.1_windows_x86_64.exe"
@@ -147,5 +147,5 @@
   ],
   "tarball_url": "https://api.github.com/repos/stabldev/torrra/tarball/v2.6.1",
   "zipball_url": "https://api.github.com/repos/stabldev/torrra/zipball/v2.6.1",
-  "body": null
+  "body": "## What's Changed\n\n- **Python 3.14 installs are now rejected.** `torrra` declares `Requires-Python: <3.14` because `libtorrent` still has no cp314 wheels. Previously, installing on Python 3.14 could silently resolve to an ancient `torrra` 0.1.2.\n- If 3.14 is your default interpreter, use `uv tool install torrra --python 3.13` (or `pipx install --python 3.13 torrra`).\n- Documented the Python requirements and the workaround in the installation guide.\n- CI now actually tests Python 3.10–3.13 (the matrix previously always ran 3.13 because `.python-version` took precedence).\n\n**Full Changelog**: https://github.com/stabldev/torrra/compare/v2.6.0...v2.6.1\n"
 }
