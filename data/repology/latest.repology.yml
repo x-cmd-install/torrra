@@ -18,9 +18,9 @@
   binnames:
     - torrra
   visiblename: torrra
-  version: 2.5.1
-  origversion: 2.5.1-alt1
-  status: outdated
+  version: 2.6.1
+  origversion: 2.6.1-alt1
+  status: newest
   summary: A Python tool that lets you search and download torrents without leaving your CLI
   maintainers:
     - sirius@altlinux.org
@@ -55,9 +55,9 @@
 - repo: homebrew
   srcname: torrra
   visiblename: torrra
-  version: 2.5.1
+  version: 2.6.1
   origversion: null
-  status: outdated
+  status: newest
   summary: Find and download torrents without leaving your CLI
 - repo: homebrew
   srcname: torrra
