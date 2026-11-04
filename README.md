@@ -33,27 +33,27 @@ Total: **11,300** lines of code across **74** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v2.6.1` (2026-11-02)
-- **Last commit**: 2026-11-02
+- **Last commit**: 2026-11-03
 - **Assets in release**: 3
 
 ## Popularity
 
-- **Stars**: 1,239 · **Forks**: 76 · **Open issues**: 64 · **Contributors**: 15
+- **Stars**: 1,240 · **Forks**: 76 · **Open issues**: 64 · **Contributors**: 15
 
 ## Totals (cumulative)
 
-- **Releases**: 57 · **Merged PRs**: 285 · **Open PRs**: 2 · **Closed issues**: 63 · **Open issues**: 1 · **Commits**: 411
+- **Releases**: 57 · **Merged PRs**: 286 · **Open PRs**: 6 · **Closed issues**: 63 · **Open issues**: 1 · **Commits**: 412
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-04 | 3 | 10 | 1 | 0 | 1 | 10 |
-| last60d | 2026-09-04 | 3 | 16 | 1 | 2 | 1 | 17 |
-| 90d | 2026-08-05 | 14 | 77 | 1 | 6 | 1 | 83 |
-| last180d | 2026-05-07 | 14 | 77 | 1 | 8 | 1 | 83 |
-| 360d | 2025-11-08 | 28 | 189 | 2 | 29 | 1 | 162 |
-| last720d | 2024-11-13 | 57 | 285 | 2 | 63 | 1 | 411 |
+| 30d | 2026-10-05 | 3 | 8 | 5 | 0 | 1 | 11 |
+| last60d | 2026-09-05 | 3 | 17 | 5 | 2 | 1 | 18 |
+| 90d | 2026-08-06 | 14 | 78 | 5 | 6 | 1 | 84 |
+| last180d | 2026-05-08 | 14 | 78 | 5 | 8 | 1 | 84 |
+| 360d | 2025-11-09 | 28 | 188 | 6 | 29 | 1 | 163 |
+| last720d | 2024-11-14 | 57 | 286 | 6 | 63 | 1 | 412 |
 
 ## Release assets
 
@@ -65,11 +65,11 @@ Total: **11,300** lines of code across **74** files in the top 5 languages.
 
 ## Distribution status
 
-Reported by **6** distros on [repology.org](https://repology.org/project/torrra). **2** are ✅ on the latest upstream release, **3** are ⚠️ on an older version.
+Reported by **6** distros on [repology.org](https://repology.org/project/torrra). **4** are ✅ on the latest upstream release, **1** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
-| Homebrew | `2.5.1` | ⚠️ outdated |
+| Homebrew | `2.6.1` | ✅ latest |
 
 ## Improve this data
 
@@ -80,4 +80,4 @@ Install metadata for torrra lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261103.yml` · 2026-11-03T08:08:23Z._
+_Snapshot: `data/card/261104.yml` · 2026-11-04T07:46:49Z._
