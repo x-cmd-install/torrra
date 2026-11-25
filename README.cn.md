@@ -38,7 +38,7 @@ x install torrra
 
 ## 流行度
 
-- **Star**: 1,244 · **Fork**: 76 · **开放 issue**: 65 · **贡献者**: 15
+- **Star**: 1,245 · **Fork**: 76 · **开放 issue**: 65 · **贡献者**: 15
 
 ## 累计统计
 
@@ -48,12 +48,12 @@ x install torrra
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-25 | 2 | 8 | 7 | 0 | 2 | 12 |
-| last60d | 2026-09-25 | 3 | 16 | 7 | 0 | 2 | 19 |
-| 90d | 2026-08-26 | 6 | 30 | 7 | 2 | 2 | 20 |
-| last180d | 2026-05-28 | 14 | 83 | 7 | 8 | 2 | 85 |
-| 360d | 2025-11-29 | 19 | 146 | 8 | 18 | 2 | 116 |
-| last720d | 2024-12-04 | 57 | 291 | 8 | 63 | 2 | 417 |
+| 30d | 2026-10-26 | 2 | 8 | 7 | 0 | 2 | 12 |
+| last60d | 2026-09-26 | 3 | 16 | 7 | 0 | 2 | 19 |
+| 90d | 2026-08-27 | 4 | 28 | 7 | 2 | 2 | 20 |
+| last180d | 2026-05-29 | 14 | 83 | 7 | 8 | 2 | 85 |
+| 360d | 2025-11-30 | 19 | 145 | 7 | 17 | 2 | 116 |
+| last720d | 2024-12-05 | 57 | 291 | 8 | 63 | 2 | 417 |
 
 ## Release 资产
 
@@ -62,14 +62,6 @@ x install torrra
 | [torrra_v2.6.1_linux_x86_64](https://github.com/stabldev/torrra/releases/download/v2.6.1/torrra_v2.6.1_linux_x86_64) | 43.2 MiB | `native/linux/x64` |
 | [torrra_v2.6.1_macos_arm64](https://github.com/stabldev/torrra/releases/download/v2.6.1/torrra_v2.6.1_macos_arm64) | 22.0 MiB | `native/darwin/arm64` |
 | [torrra_v2.6.1_windows_x86_64.exe](https://github.com/stabldev/torrra/releases/download/v2.6.1/torrra_v2.6.1_windows_x86_64.exe) | 23.2 MiB | `native/win/x64` |
-
-## 发行版状态
-
-在 [repology.org](https://repology.org/project/torrra) 上共有 **6** 个发行版报告此项目。**4** 个 ✅ 已是最新上游版本，**1** 个 ⚠️ 使用旧版本。
-
-| 发行版 | 版本 | 状态 |
-|--------|------|------|
-| Homebrew | `2.6.1` | ✅ latest |
 
 ## 改进这些数据
 
@@ -80,4 +72,4 @@ torrra 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261124.yml` · 2026-11-24T11:19:25Z._
+_数据快照: `data/card/261125.yml` · 2026-11-25T10:32:21Z._
